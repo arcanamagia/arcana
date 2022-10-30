@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miscode-exe
 - 👀 I’m not interested in anything
 - 🌱 I’m currently doing nothing
-- 💞️ I’m looking to doing nothing
+- 💞️ I’m looking to do nothing
 - 📫 How to reach me? Go find me in the Hell
 
 <!---
