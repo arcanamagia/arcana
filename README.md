@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miscode-exe
+- 👋 Hi, I’m Arcana
 - 👀 I’m not interested in anything
 - 🌱 I’m currently doing nothing
 - 💞️ I’m looking to do nothing
